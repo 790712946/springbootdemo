@@ -27,6 +27,6 @@ public class BlogPropertiesTest {
         System.out.println(testEntriy.getTest2());
         Assert.assertEquals(testEntriy.getName(), "菜鸟程序猿");
         Assert.assertEquals(testEntriy.getTitle(), "学习spring boot");
-        Assert.assertEquals(testEntriy.getDesc(), "菜鸟程序猿正在努力学习springboot");
+        Assert.assertEquals(testEntriy.getDesc(), "菜鸟程序猿正在努力学习spring boot");
     }
 }
