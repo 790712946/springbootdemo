@@ -1,6 +1,6 @@
 com:
   name: 菜鸟程序猿
-  title: 学习springboot
+  title: 学习spring boot
   desc: ${com.name}正在努力${com.title}
   value: ${random.value}
   number: ${random.int}
