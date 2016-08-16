@@ -2,12 +2,13 @@ package com.example.model.test.domain;
 
 
 import javax.persistence.*;
+import java.io.Serializable;
 
 /**
  * Created by jianghong on 2016/8/4.
  */
 @Entity
-public class Users {
+public class Users implements Serializable {
     @Id
     @GeneratedValue
     private Long id;
