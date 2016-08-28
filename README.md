@@ -4,3 +4,4 @@
 # spring data jpa 简单数据库操作
 # thymeleaf模板，restful风格
 # mysql数据库，redis缓存简单验证
+# 新增了一些java8的新API练习
